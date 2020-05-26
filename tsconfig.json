@@ -2,7 +2,10 @@
   "compileOnSave": false,
   "compilerOptions": {
     "baseUrl": "./",
-    "outDir": "./dist/out-tsc",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "outDir": "./out-tsc/app",
+    "types": ["googlemaps"],
     "sourceMap": true,
     "declaration": false,
     "downlevelIteration": true,
