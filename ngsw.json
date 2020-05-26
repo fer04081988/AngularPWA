@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1590455773852,
+  "timestamp": 1590456771051,
   "index": "https://fer04081988.github.io/PWA_Angular/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://fer04081988.github.io/PWA_Angular/favicon.ico",
         "https://fer04081988.github.io/PWA_Angular/index.html",
-        "https://fer04081988.github.io/PWA_Angular/main-es2015.cb104b1e47ba7e99f05b.js",
-        "https://fer04081988.github.io/PWA_Angular/main-es5.cb104b1e47ba7e99f05b.js",
+        "https://fer04081988.github.io/PWA_Angular/main-es2015.2296bbb1c1f4e79e2c2d.js",
+        "https://fer04081988.github.io/PWA_Angular/main-es5.2296bbb1c1f4e79e2c2d.js",
         "https://fer04081988.github.io/PWA_Angular/manifest.webmanifest",
         "https://fer04081988.github.io/PWA_Angular/polyfills-es2015.690002c25ea8557bb4b0.js",
         "https://fer04081988.github.io/PWA_Angular/polyfills-es5.9e286f6d9247438cbb02.js",
@@ -79,8 +79,7 @@
         "https://fer04081988.github.io/PWA_Angular/assets/img/sams.png",
         "https://fer04081988.github.io/PWA_Angular/assets/img/soriana.png",
         "https://fer04081988.github.io/PWA_Angular/assets/img/superama.png",
-        "https://fer04081988.github.io/PWA_Angular/assets/tiendas.json",
-        "https://fer04081988.github.io/PWA_Angular/logo_italika.c5ef58f187f562bcf18a.png"
+        "https://fer04081988.github.io/PWA_Angular/assets/tiendas.json"
       ],
       "patterns": []
     }
@@ -141,10 +140,9 @@
     "https://fer04081988.github.io/PWA_Angular/assets/img/superama.png": "8133e657be19b5de660eb394b4fdc17a1b48efa4",
     "https://fer04081988.github.io/PWA_Angular/assets/tiendas.json": "66e990860b9775dfa545259ae3e61597703e8fff",
     "https://fer04081988.github.io/PWA_Angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://fer04081988.github.io/PWA_Angular/index.html": "70088e769259d95ad993572f51ab8f2a855d8f19",
-    "https://fer04081988.github.io/PWA_Angular/logo_italika.c5ef58f187f562bcf18a.png": "50834ed81a7acc332acf3c074f320d981931e188",
-    "https://fer04081988.github.io/PWA_Angular/main-es2015.cb104b1e47ba7e99f05b.js": "3c77d11939418f175d2077d12338de02adfd0a24",
-    "https://fer04081988.github.io/PWA_Angular/main-es5.cb104b1e47ba7e99f05b.js": "6ffc6a9ef088c99a08c48a43c3a241fdb48f475e",
+    "https://fer04081988.github.io/PWA_Angular/index.html": "f3eaccdc85c8d0024146bb8920d8131d232cbe4f",
+    "https://fer04081988.github.io/PWA_Angular/main-es2015.2296bbb1c1f4e79e2c2d.js": "4bad1a80b3cc41f462d67ad0a81767a5fdfc2d1f",
+    "https://fer04081988.github.io/PWA_Angular/main-es5.2296bbb1c1f4e79e2c2d.js": "e59765133b07b8a20d4701c49b89a83488daaef5",
     "https://fer04081988.github.io/PWA_Angular/manifest.webmanifest": "511eaa80c88d159964f80c4faf17d344892dd989",
     "https://fer04081988.github.io/PWA_Angular/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "https://fer04081988.github.io/PWA_Angular/polyfills-es5.9e286f6d9247438cbb02.js": "89222a28dbabb780fc372d33834080e0cd3083d9",
